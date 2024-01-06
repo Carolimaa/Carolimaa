@@ -1,6 +1,4 @@
 # Olá, eu sou a Caroline ! 👋
-## Sou iniciante na área de programação e a cada dia que passa fico mais interessada, meu objetivo é me aprimorar no FullStack.
- ### Estou constantemente buscando oportunidades para aprender e crescer profissionalmente nesse mercado.
 
 ### _Conecte-se comigo:_
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolimaa/)
